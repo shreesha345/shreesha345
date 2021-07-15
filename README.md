@@ -2,7 +2,7 @@
 
 <!--
 **shreesha345/shreesha345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on `Deep Learning with Pytorch and Tensorflow`
@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with `Competitive Programming`
 - 💬 Ask me about anything, Except Maths 😅
 - ⚡  Fun fact: I waste most of my time playing games.
--->
 
 ### Connect with me:
 [<img align="left" alt="webpage" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
