@@ -5,7 +5,7 @@
 Here are some ideas to get you started: -->
 
 <div align="center">
-  <img src ="./IF YOU CAN'T DO GREAT THINGS, I CAN DO SMALL THINGS WITH A GREAT MIND.png" />
+  <img src ="portfolio-image_edited.jpg" />
   
 </div>
 
