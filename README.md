@@ -19,17 +19,15 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on `Something Intresting`.
 
-- 🌱 I’m currently learning `Machine learning`
+- 🌱 I’m currently learning `Full Stack Developement`
 
-- 👯 I’m looking to collaborate for `with some beautiful projects`
+- 👯 I’m looking to collaborate for `with some beautiful open-Source projects`
 
-- 🤔 I’m looking for help with `Competitive Programming`
-
-- 🤔 I’m also a `ethical hacking`
+- 🤔 I’m also a `python Dev`
 
 - 🤔 love to play `football` ⚽🦶
 
-- 💬 Ask me about anything, Except Maths :sweat_smile:
+- 💬 Ask me about anything, Except Chemistry :sweat_smile:
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
