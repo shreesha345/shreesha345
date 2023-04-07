@@ -1,4 +1,4 @@
-<h1 align="center">Hello<img src="portfolio-image_edited.jpg" width="30px">I'm shreesha aithal</h1>
+<h1 align="center">Hello I'm shreesha aithal</h1>
 
 <!--
 **soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
