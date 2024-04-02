@@ -18,7 +18,7 @@ Here are some ideas to get you started: -->
 
 - 👯 I’m looking to collaborate for `with some beautiful open-Source projects`
 
-- 🤔 I’m also a `python Dev`
+- 🤔 I’m also a `beginner python Dev`
 
 - 🤔 love to play `football` ⚽🦶
 
