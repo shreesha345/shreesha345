@@ -1,48 +1,72 @@
-<h1 align="center">Hello I'm shreesha aithal</h1>
+# Hi, I'm Shreesha 👋
 
-<!--
-**soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started: -->
+📍 **Karnataka, India** | 🤖 **AI Builder & Automation Enthusiast** | 🚀 **Building tools that think**
 
- <br/>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Binance](https://img.shields.io/badge/-Binance-F0B90B?style=flat-square&logo=binance&logoColor=black)
 
-## 👨🏻‍💻 About Me:
+> Deep in AI-building mode — shipping tools that automate, learn, and create at speed. From video AI to trading bots to emergency intelligence platforms, I build systems that do the heavy lifting.
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+## Current Projects
 
-- 🌱 I’m currently learning `Deep learning`
+- 🌟 **[Lumina-AI](https://github.com/Shreesha345/Lumina-AI)** - Voice-first AI tutor that thinks, talks, and draws on a live whiteboard simultaneously
+- 🛡️ **[Rudra-One](https://github.com/Shreesha345/Rudra-One)** - AI-powered emergency intelligence platform for real-time crisis detection and coordination
+- 🌐 **[Ozone_AI](https://github.com/Shreesha345/Ozone_AI)** - Platform that detects and stops misinformation before it reaches the end user
+- 📈 **[Binance-Trading-Bot](https://github.com/Shreesha345/Binance-Trading-Bot)** - FastAPI-based automated crypto trading platform with order management and payment tracking
+- 🎓 **[Studybite](https://github.com/Shreesha345/Studybite)** - AI-driven learning tool combining explanations with visual video clips for deeper understanding
+- 🎬 **[AI-short-creator](https://github.com/Shreesha345/AI-short-creator)** - Turns long videos into social-ready short clips using AI — captions, transitions, done
+- 📄 **[resume-match-engine](https://github.com/Shreesha345/resume-match-engine)** - AI-powered resume evaluation system with relevance scoring against job descriptions
+- 🔍 **[hackrx_rag](https://github.com/Shreesha345/hackrx_rag)** - RAG pipeline for intelligent document querying and context-aware AI responses
+- ⏭️ **[yt-skip-sponsored](https://github.com/Shreesha345/yt-skip-sponsored)** - Browser tool that auto-detects and skips sponsored YouTube segments
+- 🎬 **[caption](https://github.com/Shreesha345/caption)** - Generates styled, animated captions for videos — social-media ready subtitles
 
-- 👯 I’m looking to collaborate for `with some amazing open-Source projects`
+### Earlier Projects
 
-- 🤔 love to play `football` ⚽🦶
+- 🤖 **[Youtubebot](https://github.com/Shreesha345/Youtubebot)** - Automated YouTube bot for comment replies, notifications, and content scheduling
+- 💬 **[what_bot](https://github.com/Shreesha345/what_bot)** - WhatsApp automation bot for messaging workflows and auto-replies
+- 🏠 **[Hackers-Room](https://github.com/Shreesha345/Hackers-Room)** - Real-time chat application built for developers to connect and collaborate
+- 🎵 **[Spotify-recommendation-system](https://github.com/Shreesha345/Spotify-recommendation-system)** - ML-based music recommendation system for personalized Spotify playlists
+- 📊 **[Result-Summary](https://github.com/Shreesha345/Result-Summary)** - Utility that parses and presents academic result data in a clean, readable format
+- 🤖 **[Discord-bot](https://github.com/Shreesha345/Discord-bot)** - Discord bot for server automation, moderation, and community engagement
 
-- 💬 Ask me about anything, Except Chemistry :sweat_smile:
+## GitHub Activity
 
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreesha345&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreesha345&layout=compact&theme=default&hide_border=true)
 
-- ⚡ Fun fact: I waste most of my time playing games
+## What I'm Doing
 
-## 🛠️ Technologies and Tools I use:
+- **Building AI-first tools** — From emergency platforms to learning tools, everything I make has intelligence baked in
+- **Exploring automation** — Bots, scrapers, trading systems, and pipelines that work while you sleep
+- **Shipping fast** — Prototyping and iterating at speed using modern AI-assisted workflows
+- **Learning in public** — Every repo is a snapshot of something I wanted to exist in the world
 
-<p>
-<img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
- <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
- <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
- <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
-</p>
+## Connect
 
-## ❤️ Let's get connected:
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Shreesha345)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreesha345)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shreesha345)
 
-<p><a href="https://twitter.com/agent_anime_boy" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/shreesha-aithal-a34a7b203/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a></a> <a href="https://www.instagram.com/shreesha_aithal/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
-</p>
+---
 
-## 📊 My GitHub Data:
+### Philosophy
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=shreesha345&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreesha345&" alt="shreesha" />
-</div>
+> "Build things that shouldn't exist yet — then make them real." I build tools to solve problems I care about, learn by shipping, and share everything along the way. Currently obsessed with how AI changes what's possible for solo builders.
+
+<details>
+<summary>Random Facts</summary>
+
+- Run multiple AI models in parallel when building
+- Powered by South Indian filter coffee ☕
+- Believe every boring task deserves an automation
+- Can go from idea to working bot in an afternoon
+- Building things from Karnataka that scale globally
+
+</details>
