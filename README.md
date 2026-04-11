@@ -36,12 +36,6 @@
 - 📊 **[Result-Summary](https://github.com/Shreesha345/Result-Summary)** - Utility that parses and presents academic result data in a clean, readable format
 - 🤖 **[Discord-bot](https://github.com/Shreesha345/Discord-bot)** - Discord bot for server automation, moderation, and community engagement
 
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreesha345&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreesha345&layout=compact&hide_border=true)
-
 ## What I'm Doing
 
 - **Building AI-first tools** — From emergency platforms to learning tools, everything I make has intelligence baked in
