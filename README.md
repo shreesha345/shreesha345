@@ -17,7 +17,6 @@
 ## Current Projects
 
 - 🌟 **[Lumina-AI](https://github.com/Shreesha345/Lumina-AI)** - Voice-first AI tutor that thinks, talks, and draws on a live whiteboard simultaneously
-- 🛡️ **[Rudra-One](https://github.com/Shreesha345/Rudra-One)** - AI-powered emergency intelligence platform for real-time crisis detection and coordination
 - 🌐 **[Ozone_AI](https://github.com/Shreesha345/Ozone_AI)** - Platform that detects and stops misinformation before it reaches the end user
 - 📈 **[Binance-Trading-Bot](https://github.com/Shreesha345/Binance-Trading-Bot)** - FastAPI-based automated crypto trading platform with order management and payment tracking
 - 🎓 **[Studybite](https://github.com/Shreesha345/Studybite)** - AI-driven learning tool combining explanations with visual video clips for deeper understanding
